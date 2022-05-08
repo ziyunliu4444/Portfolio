@@ -1,3 +1,3 @@
 # Portfolio
  
-This is Ziyun (Zoey) Liu's portfolio page.
+Hi, I'm Ziyun (Zoey) Liu, this is my portfolio page.
